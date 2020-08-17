@@ -1,10 +1,32 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "DragonScaleRed",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_scale_red"
+    },
+    {
+      "name": "DragonScaleBlue",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_scale_blue"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.craftfinder.dragon_scale_red": "Red Dragon Scale",
+      "item.craftfinder.dragon_scale_blue": "Blue Dragon Scale"
+    }
   },
   "workspaceSettings": {
     "modid": "craftfinder",
