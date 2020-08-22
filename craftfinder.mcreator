@@ -1,10 +1,52 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Unmarkedrunstone",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unmarkedrunstone"
+    },
+    {
+      "name": "Armor1runestone",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_1runestone"
+    },
+    {
+      "name": "Runes",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runes"
+    },
+    {
+      "name": "Weapon1runestone",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weapon_1runestone"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.craftfinder.unmarkedrunstone": "Unmarkedrunstone",
+      "item.craftfinder.armor_1runestone": "Armor 1runestone",
+      "item.craftfinder.weapon_1runestone": "Weapon 1runestone",
+      "itemGroup.tabrunes": "Runes"
+    }
   },
   "workspaceSettings": {
     "modid": "craftfinder",

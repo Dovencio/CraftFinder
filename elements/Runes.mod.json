@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "Runes",
+    "icon": {
+      "value": "CUSTOM:Unmarkedrunstone"
+    },
+    "showSearch": false
+  }
+}

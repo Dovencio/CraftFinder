@@ -1,1 +1,6 @@
-{}
+{
+  "item.craftfinder.unmarkedrunstone": "Unmarkedrunstone",
+  "item.craftfinder.armor_1runestone": "Armor 1runestone",
+  "item.craftfinder.weapon_1runestone": "Weapon 1runestone",
+  "itemGroup.tabrunes": "Runes"
+}
