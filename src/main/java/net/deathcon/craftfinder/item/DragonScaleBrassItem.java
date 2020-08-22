@@ -24,7 +24,7 @@ public class DragonScaleBrassItem extends CraftfinderModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64));
+			super(new Item.Properties().group(ItemGroup.BREWING).maxStackSize(64));
 			setRegistryName("dragon_scale_brass");
 		}
 
