@@ -47,6 +47,15 @@
       "registry_name": "electricity_resistance"
     },
     {
+      "name": "DragonScaleBlack",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_scale_black"
+    },
+    {
       "name": "Runes",
       "type": "tab",
       "sortid": 3,
@@ -54,6 +63,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "runes"
+    },
+    {
+      "name": "DragonScaleSilver",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dragon_scale_silver"
     },
     {
       "name": "Unmarkedrunstone",
@@ -65,31 +83,13 @@
       "registry_name": "unmarkedrunstone"
     },
     {
-      "name": "Weapon1runestone",
-      "type": "item",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "weapon_1runestone"
-    },
-    {
-      "name": "Armor1runestone",
+      "name": "DragonScaleBlue",
       "type": "item",
       "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "armor_1runestone"
-    },
-    {
-      "name": "DragonScaleBlack",
-      "type": "item",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_black"
+      "registry_name": "dragon_scale_blue"
     },
     {
       "name": "DragonScaleBronze",
@@ -110,15 +110,6 @@
       "registry_name": "dragon_scale_brass"
     },
     {
-      "name": "DragonScaleSilver",
-      "type": "item",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_silver"
-    },
-    {
       "name": "DragonScaleGold",
       "type": "item",
       "sortid": 6,
@@ -126,6 +117,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dragon_scale_gold"
+    },
+    {
+      "name": "Weapon1runestone",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weapon_1runestone"
+    },
+    {
+      "name": "Armor1runestone",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_1runestone"
     },
     {
       "name": "DragonScaleWhite",
@@ -162,15 +171,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dragon_scale_green"
-    },
-    {
-      "name": "DragonScaleBlue",
-      "type": "item",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_blue"
     }
   ],
   "variable_elements": [],
