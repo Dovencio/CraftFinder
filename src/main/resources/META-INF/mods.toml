@@ -7,7 +7,7 @@ version="1.0.0"
 displayName="Craft Finder"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="Dovenchiko, moute3, MCreator"
+authors="Doven, MCreator"
 
 [[dependencies.craftfinder]]
     modId="minecraft"
