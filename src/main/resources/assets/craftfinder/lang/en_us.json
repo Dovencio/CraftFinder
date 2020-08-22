@@ -1,6 +1,12 @@
 {
-  "item.craftfinder.unmarkedrunstone": "Unmarkedrunstone",
-  "item.craftfinder.armor_1runestone": "Armor 1runestone",
-  "item.craftfinder.weapon_1runestone": "Weapon 1runestone",
-  "itemGroup.tabrunes": "Runes"
+  "item.craftfinder.dragon_scale_red": "Red Dragon Scale",
+  "item.craftfinder.dragon_scale_blue": "Blue Dragon Scale",
+  "item.craftfinder.dragon_scale_green": "Green Dragon Scale",
+  "item.craftfinder.dragon_scale_gold": "Dragon Scale Gold",
+  "item.craftfinder.dragon_scale_brass": "Brass Dragon Scale",
+  "item.craftfinder.dragon_scale_silver": "Dragon Scale Silver",
+  "item.craftfinder.dragon_scale_bronze": "Bronze Dragon Scale",
+  "item.craftfinder.dragon_scale_black": "Black Dragon Scale",
+  "item.craftfinder.dragon_scale_white": "White Dragon Scale",
+  "item.craftfinder.dragon_scale_copper": "Dragon Scale Copper"
 }
