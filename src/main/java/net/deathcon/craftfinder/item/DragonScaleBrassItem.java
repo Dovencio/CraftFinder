@@ -1,12 +1,19 @@
 
 package net.deathcon.craftfinder.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.item.Item;
+import net.minecraft.block.BlockState;
+
+import net.deathcon.craftfinder.CraftfinderModElements;
+
 @CraftfinderModElements.ModElement.Tag
 public class DragonScaleBrassItem extends CraftfinderModElements.ModElement {
-
 	@ObjectHolder("craftfinder:dragon_scale_brass")
 	public static final Item block = null;
-
 	public DragonScaleBrassItem(CraftfinderModElements instance) {
 		super(instance, 8);
 	}
@@ -15,9 +22,7 @@ public class DragonScaleBrassItem extends CraftfinderModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new ItemCustom());
 	}
-
 	public static class ItemCustom extends Item {
-
 		public ItemCustom() {
 			super(new Item.Properties().group(ItemGroup.BREWING).maxStackSize(64));
 			setRegistryName("dragon_scale_brass");
@@ -37,7 +42,5 @@ public class DragonScaleBrassItem extends CraftfinderModElements.ModElement {
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
 		}
-
 	}
-
 }
