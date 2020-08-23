@@ -4,18 +4,18 @@ package net.deathcon.craftfinder.item;
 import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
+import net.deathcon.craftfinder.itemgroup.RunesItemGroup;
 import net.deathcon.craftfinder.CraftfinderModElements;
 
 @CraftfinderModElements.ModElement.Tag
-public class DragonScaleBronzeItem extends CraftfinderModElements.ModElement {
-	@ObjectHolder("craftfinder:dragon_scale_bronze")
+public class UnmarkedrunstoneItem extends CraftfinderModElements.ModElement {
+	@ObjectHolder("craftfinder:unmarkedrunstone")
 	public static final Item block = null;
-	public DragonScaleBronzeItem(CraftfinderModElements instance) {
-		super(instance, 9);
+	public UnmarkedrunstoneItem(CraftfinderModElements instance) {
+		super(instance, 4);
 	}
 
 	@Override
@@ -24,8 +24,8 @@ public class DragonScaleBronzeItem extends CraftfinderModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.BREWING).maxStackSize(64));
-			setRegistryName("dragon_scale_bronze");
+			super(new Item.Properties().group(RunesItemGroup.tab).maxStackSize(64));
+			setRegistryName("unmarkedrunstone");
 		}
 
 		@Override
