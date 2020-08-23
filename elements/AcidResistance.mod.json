@@ -1,0 +1,19 @@
+{
+  "_fv": 10,
+  "_type": "potion",
+  "definition": {
+    "name": "Acid Resistance",
+    "effectName": "Acid Resistance",
+    "icon": "wip.png",
+    "color": {
+      "value": -16751053,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true
+  }
+}

@@ -2,42 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Runes",
-      "type": "tab",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "runes"
-    },
-    {
-      "name": "Weapon1runestone",
-      "type": "item",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "weapon_1runestone"
-    },
-    {
-      "name": "Armor1runestone",
-      "type": "item",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "armor_1runestone"
-    },
-    {
-      "name": "Unmarkedrunstone",
-      "type": "item",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "unmarkedrunstone"
-    },
-    {
       "name": "AcidResistance",
       "type": "potion",
       "sortid": 11,
@@ -92,6 +56,15 @@
       "registry_name": "dragon_scale_black"
     },
     {
+      "name": "Runes",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runes"
+    },
+    {
       "name": "DragonScaleSilver",
       "type": "item",
       "sortid": 7,
@@ -99,6 +72,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dragon_scale_silver"
+    },
+    {
+      "name": "Unmarkedrunstone",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unmarkedrunstone"
     },
     {
       "name": "DragonScaleBlue",
@@ -135,6 +117,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dragon_scale_gold"
+    },
+    {
+      "name": "Weapon1runestone",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weapon_1runestone"
+    },
+    {
+      "name": "Armor1runestone",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "armor_1runestone"
     },
     {
       "name": "DragonScaleWhite",

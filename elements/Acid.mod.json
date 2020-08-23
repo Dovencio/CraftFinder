@@ -1,0 +1,19 @@
+{
+  "_fv": 10,
+  "_type": "potion",
+  "definition": {
+    "name": "Acid",
+    "effectName": "Acid",
+    "icon": "wip.png",
+    "color": {
+      "value": -16751053,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true
+  }
+}

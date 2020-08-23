@@ -1,0 +1,19 @@
+{
+  "_fv": 10,
+  "_type": "potion",
+  "definition": {
+    "name": "Toxin Resistance",
+    "effectName": "Toxin Resistance",
+    "icon": "wip.png",
+    "color": {
+      "value": -16764109,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true
+  }
+}
