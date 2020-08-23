@@ -171,41 +171,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dragon_scale_green"
-    },
-    {
-      "name": "Concentrator",
-      "type": "gui",
-      "sortid": 16,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "concentrator"
-    },
-    {
-      "name": "ConcentratorBlock",
-      "type": "block",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "concentrator_block"
-    },
-    {
-      "name": "ConcentratorBlockUpdateTick",
-      "type": "procedure",
-      "sortid": 18,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "concentrator_block_update_tick",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
     }
   ],
   "variable_elements": [],
@@ -219,7 +184,6 @@
       "item.craftfinder.dragon_scale_bronze": "Bronze Dragon Scale",
       "item.minecraft.potion.effect.acid": "Acid",
       "item.minecraft.lingering_potion.effect.acid_resistance": "Lingering Acid Resistance",
-      "block.craftfinder.concentrator_block": "Concentrator Block",
       "item.minecraft.tipped_arrow.effect.electricity_resistance": "Arrow of Electricity Resistance",
       "item.minecraft.lingering_potion.effect.acid": "Lingering Acid",
       "item.minecraft.tipped_arrow.effect.cold_resistance": "Arrow of Cold Resistance",

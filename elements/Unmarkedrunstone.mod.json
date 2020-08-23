@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "unmarkedrune",
     "customModelName": "Normal",
-    "name": "Unmarked Runstone",
+    "name": "Unmarkedrunstone",
     "creativeTab": {
       "value": "CUSTOM:Runes"
     },

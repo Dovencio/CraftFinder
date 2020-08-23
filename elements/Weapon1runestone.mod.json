@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "unmarkedrune",
     "customModelName": "Normal",
-    "name": "Weapon 1 Runestone",
+    "name": "Weapon 1runestone",
     "creativeTab": {
       "value": "CUSTOM:Runes"
     },

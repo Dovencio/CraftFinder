@@ -189,23 +189,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "concentrator_block"
-    },
-    {
-      "name": "ConcentratorBlockUpdateTick",
-      "type": "procedure",
-      "sortid": 18,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "concentrator_block_update_tick",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
     }
   ],
   "variable_elements": [],
