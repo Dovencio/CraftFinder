@@ -1,0 +1,39 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Unmarkedrunstone",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unmarkedrunstone"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.craftfinder.unmarkedrunstone": "Unmarkedrunstone"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "craftfinder",
+    "modName": "Craft Finder",
+    "version": "1.0.0",
+    "author": "Doven, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.deathcon.craftfinder",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
