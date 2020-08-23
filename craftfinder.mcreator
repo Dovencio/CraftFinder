@@ -36,112 +36,13 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "unmarkedrunstone"
-    },
-    {
-      "name": "DragonScaleBlack",
-      "type": "item",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_black"
-    },
-    {
-      "name": "DragonScaleBronze",
-      "type": "item",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_bronze"
-    },
-    {
-      "name": "DragonScaleBrass",
-      "type": "item",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_brass"
-    },
-    {
-      "name": "DragonScaleGold",
-      "type": "item",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_gold"
-    },
-    {
-      "name": "DragonScaleSilver",
-      "type": "item",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_silver"
-    },
-    {
-      "name": "DragonScaleWhite",
-      "type": "item",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_white"
-    },
-    {
-      "name": "DragonScaleCopper",
-      "type": "item",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_copper"
-    },
-    {
-      "name": "DragonScaleRed",
-      "type": "item",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_red"
-    },
-    {
-      "name": "DragonScaleGreen",
-      "type": "item",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_green"
-    },
-    {
-      "name": "DragonScaleBlue",
-      "type": "item",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dragon_scale_blue"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.craftfinder.dragon_scale_red": "Red Dragon Scale",
-      "item.craftfinder.dragon_scale_blue": "Blue Dragon Scale",
-      "item.craftfinder.dragon_scale_green": "Green Dragon Scale",
-      "item.craftfinder.dragon_scale_gold": "Dragon Scale Gold",
-      "item.craftfinder.dragon_scale_brass": "Brass Dragon Scale",
-      "item.craftfinder.dragon_scale_silver": "Dragon Scale Silver",
-      "item.craftfinder.dragon_scale_bronze": "Bronze Dragon Scale",
-      "item.craftfinder.dragon_scale_black": "Black Dragon Scale",
-      "item.craftfinder.dragon_scale_white": "White Dragon Scale",
-      "item.craftfinder.dragon_scale_copper": "Dragon Scale Copper"
+      
     }
   },
   "workspaceSettings": {
