@@ -7,7 +7,7 @@ build/
 .settings/
 
 # MCreator workspace
-.mcreator/
+# .mcreator/
 
 # Minecraft client/server files
 run/
